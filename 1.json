@@ -1,0 +1,416 @@
+[
+  {
+    "bond_code": "110095",
+    "bond_name": "双良转债",
+    "stock_code": "600481",
+    "stock_name": "双良节能",
+    "bond_price": 146.926,
+    "premium_rate": 2.14,
+    "amount": 410124.53
+  },
+  {
+    "bond_code": "123128",
+    "bond_name": "首华转债",
+    "stock_code": "300483",
+    "stock_name": "首华燃气",
+    "bond_price": 144.6,
+    "premium_rate": 0.97,
+    "amount": 99407.51
+  },
+  {
+    "bond_code": "123182",
+    "bond_name": "广联转债",
+    "stock_code": "300900",
+    "stock_name": "广联航空",
+    "bond_price": 148.0,
+    "premium_rate": 1.6,
+    "amount": 74813.13
+  },
+  {
+    "bond_code": "113623",
+    "bond_name": "凤21转债",
+    "stock_code": "603225",
+    "stock_name": "新凤鸣",
+    "bond_price": 135.577,
+    "premium_rate": -0.68,
+    "amount": 64235.72
+  },
+  {
+    "bond_code": "110067",
+    "bond_name": "华安转债",
+    "stock_code": "600909",
+    "stock_name": "华安证券",
+    "bond_price": 136.499,
+    "premium_rate": 2.33,
+    "amount": 52842.87
+  },
+  {
+    "bond_code": "123241",
+    "bond_name": "欧通转债",
+    "stock_code": "300870",
+    "stock_name": "欧陆通",
+    "bond_price": 791.558,
+    "premium_rate": 29.25,
+    "amount": 6.445265
+  },
+  {
+    "bond_code": "123180",
+    "bond_name": "浙矿转债",
+    "stock_code": "300837",
+    "stock_name": "浙矿股份",
+    "bond_price": 196.876,
+    "premium_rate": 46.43,
+    "amount": 3.2
+  },
+  {
+    "bond_code": "123129",
+    "bond_name": "锦鸡转债",
+    "stock_code": "300798",
+    "stock_name": "锦鸡股份",
+    "bond_price": 157.82,
+    "premium_rate": 30.47,
+    "amount": 6.0
+  },
+  {
+    "bond_code": "118062",
+    "bond_name": "天准转债",
+    "stock_code": "688003",
+    "stock_name": "天准科技",
+    "bond_price": 269.892,
+    "premium_rate": 81.88,
+    "amount": 8.72
+  },
+  {
+    "bond_code": "113691",
+    "bond_name": "和邦转债",
+    "stock_code": "603077",
+    "stock_name": "和邦生物",
+    "bond_price": 166.594,
+    "premium_rate": 18.15,
+    "amount": 46.0
+  },
+  {
+    "bond_code": "123131",
+    "bond_name": "奥飞转债",
+    "stock_code": "300738",
+    "stock_name": "奥飞数据",
+    "bond_price": 328.89,
+    "premium_rate": 40.08,
+    "amount": 6.35
+  },
+  {
+    "bond_code": "127070",
+    "bond_name": "大中转债",
+    "stock_code": "001203",
+    "stock_name": "大中矿业",
+    "bond_price": 401.48,
+    "premium_rate": 40.17,
+    "amount": 15.2
+  },
+  {
+    "bond_code": "118057",
+    "bond_name": "甬矽转债",
+    "stock_code": "688362",
+    "stock_name": "甬矽电子",
+    "bond_price": 231.103,
+    "premium_rate": 36.6,
+    "amount": 11.65
+  },
+  {
+    "bond_code": "118052",
+    "bond_name": "浩瀚转债",
+    "stock_code": "688292",
+    "stock_name": "浩瀚深度",
+    "bond_price": 177.162,
+    "premium_rate": 32.16,
+    "amount": 3.5429
+  },
+  {
+    "bond_code": "123210",
+    "bond_name": "信服转债",
+    "stock_code": "300454",
+    "stock_name": "深信服",
+    "bond_price": 184.409,
+    "premium_rate": 16.55,
+    "amount": 12.14756
+  },
+  {
+    "bond_code": "113039",
+    "bond_name": "嘉泽转债",
+    "stock_code": "601619",
+    "stock_name": "嘉泽新能",
+    "bond_price": 271.823,
+    "premium_rate": 29.04,
+    "amount": 13.0
+  },
+  {
+    "bond_code": "127075",
+    "bond_name": "百川转2",
+    "stock_code": "002455",
+    "stock_name": "百川股份",
+    "bond_price": 137.4,
+    "premium_rate": 30.47,
+    "amount": 9.78
+  },
+  {
+    "bond_code": "113687",
+    "bond_name": "振华转债",
+    "stock_code": "603067",
+    "stock_name": "振华股份",
+    "bond_price": 609.017,
+    "premium_rate": 35.19,
+    "amount": 4.0621
+  },
+  {
+    "bond_code": "127092",
+    "bond_name": "运机转债",
+    "stock_code": "001288",
+    "stock_name": "运机集团",
+    "bond_price": 448.2,
+    "premium_rate": 32.71,
+    "amount": 7.3
+  },
+  {
+    "bond_code": "111023",
+    "bond_name": "利柏转债",
+    "stock_code": "605167",
+    "stock_name": "利柏特",
+    "bond_price": 190.401,
+    "premium_rate": 25.69,
+    "amount": 7.5
+  },
+  {
+    "bond_code": "118004",
+    "bond_name": "博瑞转债",
+    "stock_code": "688166",
+    "stock_name": "博瑞医药",
+    "bond_price": 190.416,
+    "premium_rate": 36.31,
+    "amount": 4.65
+  },
+  {
+    "bond_code": "127094",
+    "bond_name": "红墙转债",
+    "stock_code": "002809",
+    "stock_name": "红墙股份",
+    "bond_price": 151.091,
+    "premium_rate": 17.37,
+    "amount": 3.16
+  },
+  {
+    "bond_code": "118048",
+    "bond_name": "利扬转债",
+    "stock_code": "688135",
+    "stock_name": "利扬芯片",
+    "bond_price": 298.56,
+    "premium_rate": 36.57,
+    "amount": 5.2
+  },
+  {
+    "bond_code": "123195",
+    "bond_name": "蓝晓转02",
+    "stock_code": "300487",
+    "stock_name": "蓝晓科技",
+    "bond_price": 192.8,
+    "premium_rate": 62.03,
+    "amount": 5.460645
+  },
+  {
+    "bond_code": "123189",
+    "bond_name": "晓鸣转债",
+    "stock_code": "300967",
+    "stock_name": "晓鸣股份",
+    "bond_price": 142.751,
+    "premium_rate": 27.64,
+    "amount": 3.29
+  },
+  {
+    "bond_code": "113695",
+    "bond_name": "华辰转债",
+    "stock_code": "603097",
+    "stock_name": "江苏华辰",
+    "bond_price": 195.389,
+    "premium_rate": 28.26,
+    "amount": 4.6
+  },
+  {
+    "bond_code": "123252",
+    "bond_name": "银邦转债",
+    "stock_code": "300337",
+    "stock_name": "银邦股份",
+    "bond_price": 136.9,
+    "premium_rate": 8.26,
+    "amount": 7.85
+  },
+  {
+    "bond_code": "123176",
+    "bond_name": "精测转2",
+    "stock_code": "300567",
+    "stock_name": "精测电子",
+    "bond_price": 305.599,
+    "premium_rate": 34.34,
+    "amount": 12.76
+  },
+  {
+    "bond_code": "113052",
+    "bond_name": "兴业转债",
+    "stock_code": "601166",
+    "stock_name": "兴业银行",
+    "bond_price": 122.929,
+    "premium_rate": 40.42,
+    "amount": 500.0
+  },
+  {
+    "bond_code": "113677",
+    "bond_name": "华懋转债",
+    "stock_code": "603306",
+    "stock_name": "华懋科技",
+    "bond_price": 322.073,
+    "premium_rate": 42.98,
+    "amount": 10.5
+  },
+  {
+    "bond_code": "113615",
+    "bond_name": "金诚转债",
+    "stock_code": "603979",
+    "stock_name": "金诚信",
+    "bond_price": 862.626,
+    "premium_rate": 23.28,
+    "amount": 10.0
+  },
+  {
+    "bond_code": "111012",
+    "bond_name": "福新转债",
+    "stock_code": "605488",
+    "stock_name": "福莱新材",
+    "bond_price": 603.718,
+    "premium_rate": 38.91,
+    "amount": 4.29018
+  },
+  {
+    "bond_code": "113066",
+    "bond_name": "平煤转债",
+    "stock_code": "601666",
+    "stock_name": "平煤股份",
+    "bond_price": 154.624,
+    "premium_rate": 36.8,
+    "amount": 29.0
+  },
+  {
+    "bond_code": "118049",
+    "bond_name": "汇成转债",
+    "stock_code": "688403",
+    "stock_name": "汇成股份",
+    "bond_price": 347.155,
+    "premium_rate": 28.37,
+    "amount": 11.487
+  },
+  {
+    "bond_code": "118058",
+    "bond_name": "微导转债",
+    "stock_code": "688147",
+    "stock_name": "微导纳米",
+    "bond_price": 406.999,
+    "premium_rate": 78.83,
+    "amount": 11.7
+  },
+  {
+    "bond_code": "110075",
+    "bond_name": "南航转债",
+    "stock_code": "600029",
+    "stock_name": "南方航空",
+    "bond_price": 136.002,
+    "premium_rate": 15.27,
+    "amount": 160.0
+  },
+  {
+    "bond_code": "118042",
+    "bond_name": "奥维转债",
+    "stock_code": "688516",
+    "stock_name": "奥特维",
+    "bond_price": 162.826,
+    "premium_rate": 40.3,
+    "amount": 11.4
+  },
+  {
+    "bond_code": "113589",
+    "bond_name": "天创转债",
+    "stock_code": "603608",
+    "stock_name": "天创时尚",
+    "bond_price": 285.678,
+    "premium_rate": 214.89,
+    "amount": 6.0
+  },
+  {
+    "bond_code": "123263",
+    "bond_name": "鼎捷转债",
+    "stock_code": "300378",
+    "stock_name": "鼎捷数智",
+    "bond_price": 237.57,
+    "premium_rate": 83.34,
+    "amount": 8.276642
+  },
+  {
+    "bond_code": "118064",
+    "bond_name": "N联瑞转",
+    "stock_code": "688300",
+    "stock_name": "联瑞新材",
+    "bond_price": 157.3,
+    "premium_rate": 41.19,
+    "amount": 6.95
+  },
+  {
+    "bond_code": "127082",
+    "bond_name": "亚科转债",
+    "stock_code": "002540",
+    "stock_name": "亚太科技",
+    "bond_price": 191.511,
+    "premium_rate": 26.64,
+    "amount": 11.59
+  },
+  {
+    "bond_code": "127050",
+    "bond_name": "麒麟转债",
+    "stock_code": "002984",
+    "stock_name": "森麒麟",
+    "bond_price": 145.334,
+    "premium_rate": 33.41,
+    "amount": 21.989391
+  },
+  {
+    "bond_code": "127038",
+    "bond_name": "国微转债",
+    "stock_code": "002049",
+    "stock_name": "紫光国微",
+    "bond_price": 144.497,
+    "premium_rate": 59.93,
+    "amount": 15.0
+  },
+  {
+    "bond_code": "118016",
+    "bond_name": "京源转债",
+    "stock_code": "688096",
+    "stock_name": "京源环保",
+    "bond_price": 147.938,
+    "premium_rate": 14.35,
+    "amount": 3.325
+  },
+  {
+    "bond_code": "127067",
+    "bond_name": "恒逸转2",
+    "stock_code": "000703",
+    "stock_name": "恒逸石化",
+    "bond_price": 141.822,
+    "premium_rate": 23.07,
+    "amount": 30.0
+  },
+  {
+    "bond_code": "118015",
+    "bond_name": "芯海转债",
+    "stock_code": "688595",
+    "stock_name": "芯海科技",
+    "bond_price": 137.63,
+    "premium_rate": 83.75,
+    "amount": 4.1
+  }
+]
