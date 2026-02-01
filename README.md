@@ -159,7 +159,7 @@ A: 可能是转债已退市或数据源未收录。建议使用 `bond_zh_cov` �
 
 ### Q: 如何调整监控频率？
 
-A: 修改 `2.py` 中的 `check_interval` 参数（单位：秒）。
+A: 修改 `check.py` 中的 `check_interval` 参数（单位：秒）。
 
 ### Q: 如何查看历史日志？
 
